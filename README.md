@@ -1,5 +1,5 @@
 **Multi-Agent AI Property Analytics System (Singapore HDB)**
-- A multi-agent AI system for analyzing Singapore HDB resale prices, combining data processing, ML predictions, and LLM-based reasoning.
+- A multi-agent AI system for analyzing Singapore HDB resale prices, combining data processing, ML predictions, and LLM-based reasoning based on resale flats registered after 2017.
 
 - Data Source: https://data.gov.sg/datasets?query=resale+flat+prices&resultId=d_2d5ff9ea31397b66239f245f57751537
 
